@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="112" started-at="2020-05-31T14:44:40 IST" finished-at="2020-05-31T14:44:40 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="112" started-at="2020-05-31T14:44:40 IST" finished-at="2020-05-31T14:44:40 IST">
+      <class name="Mavenjava.Mymavenproject.AppiumTest">
+        <test-method status="PASS" signature="IOSappliction()[pri:0, instance:Mavenjava.Mymavenproject.AppiumTest@58c1670b]" name="IOSappliction" duration-ms="11" started-at="2020-05-31T14:44:40 IST" finished-at="2020-05-31T14:44:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSappliction -->
+        <test-method status="PASS" signature="NativeapkAndroid()[pri:0, instance:Mavenjava.Mymavenproject.AppiumTest@58c1670b]" name="NativeapkAndroid" duration-ms="3" started-at="2020-05-31T14:44:40 IST" finished-at="2020-05-31T14:44:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeapkAndroid -->
+      </class> <!-- Mavenjava.Mymavenproject.AppiumTest -->
+      <class name="Mavenjava.Mymavenproject.RestAPITest">
+        <test-method status="PASS" signature="DeleteTwitter()[pri:0, instance:Mavenjava.Mymavenproject.RestAPITest@6b57696f]" name="DeleteTwitter" duration-ms="4" started-at="2020-05-31T14:44:40 IST" finished-at="2020-05-31T14:44:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteTwitter -->
+        <test-method status="PASS" signature="PostJira()[pri:0, instance:Mavenjava.Mymavenproject.RestAPITest@6b57696f]" name="PostJira" duration-ms="3" started-at="2020-05-31T14:44:40 IST" finished-at="2020-05-31T14:44:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJira -->
+        <test-method status="PASS" signature="Restart()[pri:0, instance:Mavenjava.Mymavenproject.RestAPITest@6b57696f]" name="Restart" duration-ms="2" started-at="2020-05-31T14:44:40 IST" finished-at="2020-05-31T14:44:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Restart -->
+      </class> <!-- Mavenjava.Mymavenproject.RestAPITest -->
+      <class name="Mavenjava.Mymavenproject.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomaiton()[pri:0, instance:Mavenjava.Mymavenproject.SeleniumTest@5bb21b69]" name="BrowserAutomaiton" duration-ms="2" started-at="2020-05-31T14:44:40 IST" finished-at="2020-05-31T14:44:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomaiton -->
+        <test-method status="PASS" signature="ElementUI()[pri:0, instance:Mavenjava.Mymavenproject.SeleniumTest@5bb21b69]" name="ElementUI" duration-ms="2" started-at="2020-05-31T14:44:40 IST" finished-at="2020-05-31T14:44:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementUI -->
+      </class> <!-- Mavenjava.Mymavenproject.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="176" started-at="2020-05-26T01:24:58 IST" finished-at="2020-05-26T01:24:58 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="176" started-at="2020-05-26T01:24:58 IST" finished-at="2020-05-26T01:24:58 IST">
+      <class name="Mavenjava.Mymavenproject.AppiumTest">
+        <test-method status="PASS" signature="IOSappliction()" name="IOSappliction" duration-ms="17" started-at="2020-05-26T01:24:58 IST" finished-at="2020-05-26T01:24:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSappliction -->
+        <test-method status="PASS" signature="NativeapkAndroid()" name="NativeapkAndroid" duration-ms="14" started-at="2020-05-26T01:24:58 IST" finished-at="2020-05-26T01:24:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeapkAndroid -->
+      </class> <!-- Mavenjava.Mymavenproject.AppiumTest -->
+      <class name="Mavenjava.Mymavenproject.RestAPITest">
+        <test-method status="PASS" signature="Restart()" name="Restart" duration-ms="9" started-at="2020-05-26T01:24:58 IST" finished-at="2020-05-26T01:24:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Restart -->
+        <test-method status="PASS" signature="DeleteTwitter()" name="DeleteTwitter" duration-ms="11" started-at="2020-05-26T01:24:58 IST" finished-at="2020-05-26T01:24:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteTwitter -->
+        <test-method status="PASS" signature="PostJira()" name="PostJira" duration-ms="9" started-at="2020-05-26T01:24:58 IST" finished-at="2020-05-26T01:24:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJira -->
+      </class> <!-- Mavenjava.Mymavenproject.RestAPITest -->
+      <class name="Mavenjava.Mymavenproject.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomaiton()" name="BrowserAutomaiton" duration-ms="2" started-at="2020-05-26T01:24:58 IST" finished-at="2020-05-26T01:24:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomaiton -->
+        <test-method status="PASS" signature="ElementUI()" name="ElementUI" duration-ms="5" started-at="2020-05-26T01:24:58 IST" finished-at="2020-05-26T01:24:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementUI -->
+      </class> <!-- Mavenjava.Mymavenproject.SeleniumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
